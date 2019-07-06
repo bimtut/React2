@@ -1,0 +1,26 @@
+.search {
+    position: absolute;
+    width: 60%;
+    left: 50%;
+    padding: 20px 50px;
+    border-radius: 50px;
+    border: 0;
+    box-shadow: 0px 2px 6px #cccccc;
+    transform: translateX(-50%);
+    font-size: 15pt;
+    outline: none;
+    overflow: hidden;
+    height: 50px;
+    /* border-radius:40px;*/
+    /* width: 700px; */
+    /* text-Indent: 40px; */
+    /*box-Shadow: 0px 2px 5px #888888;*/
+    /* border-color: transparent; */
+    /* cara biar ga tabrakan sama bawahnya gimana? */
+  }
+  
+  .search::placeholder {
+    color: #771c1c;
+    /* font-weight: bold; */
+  }
+  
